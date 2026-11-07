@@ -11,3 +11,4 @@ lab-ops/.last-manual-lr.env
 .venv/
 vm-ip.txt
 !vm-ip.txt.example
+.DS_Store

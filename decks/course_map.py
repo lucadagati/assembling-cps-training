@@ -32,7 +32,7 @@ def slides() -> list:
             "6h  STANDARD → Core + D fleet + E VN (opt.) + F WoT/WSTUN tunnels",
             "9h  FULL     → Standard + G FL rounds + H Blueprint/K3s + I FaaS taxonomy",
             "Credentials: Horizon {{HZ_CRED}} · Lightning-Rod {{LR_CRED}}",
-            "Materials: github.com/lucadagati/AssemblyingCPS_training",
+            "Materials: github.com/lucadagati/assembling-cps-training",
         ]),
 
         ("section", "Lab workflow", "End-to-end pipeline — UML sequence"),
@@ -43,7 +43,7 @@ def slides() -> list:
             "Step 3: Run validate/validate-all.sh — all module checks must PASS before the session.",
             "Step 4: Use pre-built PPTX in slides/ or regenerate with scripts/generate_diagrams.py + generate_slides_modular_en.py.",
             "Step 5: Deliver modules A–I using Module*.pptx decks; re-run module validators after each lab block.",
-            "Public repo: github.com/lucadagati/AssemblyingCPS_training",
+            "Public repo: github.com/lucadagati/assembling-cps-training",
         ], "scripts/build-all.sh · docs/MODULES.md"),
 
         ("image", "UML — End-to-end training workflow",

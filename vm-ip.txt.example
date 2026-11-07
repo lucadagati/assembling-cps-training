@@ -1,4 +1,1 @@
-# Copy to vm-ip.txt and set your lab host IP (one line, no comments):
-# LAN example:          192.168.100.11
-# Example:             192.168.1.100
-{{VM_IP}}
+192.168.1.100
